@@ -1,0 +1,24 @@
+name: test_1101101
+description: ''
+version: 0.0.1-SNAPSHOT
+author: kuldeep@prophecy.io
+language: python
+buildSystem: wheel
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies:
+  '13057':
+    projectUID: 13057
+    projectName: HelloWorld
+    repositoryPath: gitUri=http://gitserver:3000/sEf2rQTW_team_5521/sEf2rQTW_project_13057.git&subPath=
+    version: HelloWorld/v007
+    author: null
+    createdAt: '2022-12-05 06:49:39'
+pipelineConfigurations: {}
